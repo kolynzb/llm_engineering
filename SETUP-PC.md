@@ -80,7 +80,7 @@ Press Win + R, type `cmd`, and press Enter
 Run `python --version` to find out which python you're on. Ideally you'd be using a version of Python 3.11, so we're completely in sync.  
 If not, it's not a big deal, but we might need to come back to this later if you have compatibility issues.  
 You can download python here:  
-https://www.python.org/downloads/
+<https://www.python.org/downloads/>
 
 2. Navigate to the "project root directory" by entering something like `cd C:\Users\YourUsername\Documents\Projects\llm_engineering` using the actual path to your llm_engineering project root directory. Do a `dir` and check you can see subdirectories for each week of the course.  
 
